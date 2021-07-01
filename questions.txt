@@ -1,0 +1,20 @@
+Horse questions:
+	How accurate are the odds?
+		How often does the favorite win/2nd place/3rd show?
+		Average finish position for fave, 2nd face, etc.
+		Breakdown by finish position by fave, 2nd, etc.
+		Regression of lengths back by odds
+
+	What are the payouts of basic betting strategies?
+		Always bet on the favorite to win/2nd to place/3rd to show
+		
+	How much do conditions matter?
+	How much does the jockey matter?
+	How fast are various tracks?
+	How does surface affect horses?
+	How much does weight matter?
+
+Horse to do:
+	Need a program to generate past performances
+	Need a time column
+	
