@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2021.5.31)  6 JUL 2021 08:07
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2021.6.28)  16 JUL 2021 17:55
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/home/karisch/programming/projects/horseAnalysis/latex/Horse-Analysis.tex
-(/home/karisch/programming/projects/horseAnalysis/latex/Horse-Analysis.tex
+**/home/karisch/projects/horseAnalysis/latex/Horse-Analysis.tex
+(/home/karisch/projects/horseAnalysis/latex/Horse-Analysis.tex
 LaTeX2e <2020-02-02> patch level 2
 L3 programming layer <2020-02-14> (/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
@@ -42,78 +42,123 @@ File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
 ))
 \Gin@req@height=\dimen135
 \Gin@req@width=\dimen136
+) (/usr/share/texlive/texmf-dist/tex/latex/tools/array.sty
+Package: array 2019/08/31 v2.4l Tabular extension package (FMi)
+\col@sep=\dimen137
+\ar@mcellbox=\box45
+\extrarowheight=\dimen138
+\NC@list=\toks15
+\extratabsurround=\skip49
+\backup@length=\skip50
+\ar@cellbox=\box46
 ) (/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
 File: l3backend-pdfmode.def 2020-02-03 L3 backend support: PDF mode
 \l__kernel_color_stack_int=\count175
-\l__pdf_internal_box=\box45
-) (/home/karisch/programming/projects/horseAnalysis/latex/Horse-Analysis.aux)
+\l__pdf_internal_box=\box47
+) (/home/karisch/projects/horseAnalysis/latex/Horse-Analysis.aux)
 \openout1 = `Horse-Analysis.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
  (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count176
-\scratchdimen=\dimen137
-\scratchbox=\box46
+\scratchdimen=\dimen139
+\scratchbox=\box48
 \nofMPsegments=\count177
 \nofMParguments=\count178
-\everyMPshowfont=\toks15
+\everyMPshowfont=\toks16
 \MPscratchCnt=\count179
-\MPscratchDim=\dimen138
+\MPscratchDim=\dimen140
 \MPnumerator=\count180
 \makeMPintoPDFobject=\count181
-\everyMPtoPDFconversion=\toks16
+\everyMPtoPDFconversion=\toks17
 ) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
  (/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
+<images/horse_data_image.png, id=1, 513.92pt x 342.27875pt>
+File: images/horse_data_image.png Graphic file (type png)
+<use images/horse_data_image.png>
+Package pdftex.def Info: images/horse_data_image.png  used on input line 15.
+(pdftex.def)             Requested size: 341.43306pt x 227.40358pt.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 12.
+(Font)              <12> on input line 18.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 12.
+(Font)              <8> on input line 18.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 12.
-<images/odds_rank_finish_chart.png, id=1, 1557.82pt x 808.01875pt>
-File: images/odds_rank_finish_chart.png Graphic file (type png)
-<use images/odds_rank_finish_chart.png>
-Package pdftex.def Info: images/odds_rank_finish_chart.png  used on input line 23.
-(pdftex.def)             Requested size: 341.43306pt x 177.08656pt.
-<images/lengths_odds_no_trans_chart.png, id=3, 769.87625pt x 423.5825pt>
-File: images/lengths_odds_no_trans_chart.png Graphic file (type png)
-<use images/lengths_odds_no_trans_chart.png>
-Package pdftex.def Info: images/lengths_odds_no_trans_chart.png  used on input line 35.
-(pdftex.def)             Requested size: 341.43306pt x 187.85698pt.
+(Font)              <6> on input line 18.
  [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2 </home/karisch/programming/projects/horseAnalysis/latex/images/odds_rank_finish_chart.png> </home/karisch/programming/projects/horseAnalysis/latex/images/lengths_odds_no_trans_chart.png>] (/home/karisch/programming/projects/horseAnalysis/latex/Horse-Analysis.aux) ) 
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} </home/karisch/projects/horseAnalysis/latex/images/horse_data_image.png>]
+<images/odds_rank_finish_chart.png, id=11, 1557.82pt x 808.01875pt>
+File: images/odds_rank_finish_chart.png Graphic file (type png)
+<use images/odds_rank_finish_chart.png>
+Package pdftex.def Info: images/odds_rank_finish_chart.png  used on input line 28.
+(pdftex.def)             Requested size: 341.43306pt x 177.08656pt.
+<images/lengths_odds_no_trans_chart.png, id=13, 769.87625pt x 278.03876pt>
+File: images/lengths_odds_no_trans_chart.png Graphic file (type png)
+<use images/lengths_odds_no_trans_chart.png>
+Package pdftex.def Info: images/lengths_odds_no_trans_chart.png  used on input line 39.
+(pdftex.def)             Requested size: 341.43306pt x 123.30896pt.
+ [2 </home/karisch/projects/horseAnalysis/latex/images/odds_rank_finish_chart.png> </home/karisch/projects/horseAnalysis/latex/images/lengths_odds_no_trans_chart.png>]
+<images/odds_lengths_regression.png, id=19, 374.14781pt x 61.73062pt>
+File: images/odds_lengths_regression.png Graphic file (type png)
+<use images/odds_lengths_regression.png>
+Package pdftex.def Info: images/odds_lengths_regression.png  used on input line 52.
+(pdftex.def)             Requested size: 341.43306pt x 56.336pt.
+<images/odds_rank_means_stds.png, id=20, 506.89375pt x 351.3125pt>
+File: images/odds_rank_means_stds.png Graphic file (type png)
+<use images/odds_rank_means_stds.png>
+Package pdftex.def Info: images/odds_rank_means_stds.png  used on input line 57.
+(pdftex.def)             Requested size: 227.62204pt x 157.75679pt.
+<images/lengths_odds_yes_trans_chart.png, id=21, 1218.5525pt x 278.03876pt>
+File: images/lengths_odds_yes_trans_chart.png Graphic file (type png)
+<use images/lengths_odds_yes_trans_chart.png>
+Package pdftex.def Info: images/lengths_odds_yes_trans_chart.png  used on input line 65.
+(pdftex.def)             Requested size: 369.88582pt x 84.39653pt.
+
+Overfull \hbox (24.88582pt too wide) in paragraph at lines 65--66
+ [][] 
+ []
+
+<images/odds_lengths_actual_reg_chart.png, id=22, 514.92375pt x 355.3275pt>
+File: images/odds_lengths_actual_reg_chart.png Graphic file (type png)
+<use images/odds_lengths_actual_reg_chart.png>
+Package pdftex.def Info: images/odds_lengths_actual_reg_chart.png  used on input line 75.
+(pdftex.def)             Requested size: 227.62204pt x 157.0711pt.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 86.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 86.
+[3 </home/karisch/projects/horseAnalysis/latex/images/odds_lengths_regression.PNG>] [4 </home/karisch/projects/horseAnalysis/latex/images/odds_rank_means_stds.png> </home/karisch/projects/horseAnalysis/latex/images/lengths_odds_yes_trans_chart.png> </home/karisch/projects/horseAnalysis/latex/images/odds_lengths_actual_reg_chart.png>] [5] (/home/karisch/projects/horseAnalysis/latex/Horse-Analysis.aux) ) 
 Here is how much of TeX's memory you used:
- 1179 strings out of 483183
- 18194 string characters out of 5966292
- 246687 words of memory out of 5000000
- 16225 multiletter control sequences out of 15000+600000
- 535978 words of font info for 36 fonts, out of 8000000 for 9000
+ 1270 strings out of 483183
+ 19926 string characters out of 5966292
+ 249359 words of memory out of 5000000
+ 16307 multiletter control sequences out of 15000+600000
+ 536621 words of font info for 38 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 30i,6n,25p,861b,223s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb>
-Output written on /home/karisch/programming/projects/horseAnalysis/latex/Horse-Analysis.pdf (2 pages, 108249 bytes).
+ 30i,6n,25p,1269b,219s stack positions out of 5000i,500n,10000p,200000b,80000s
+ </home/karisch/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm1000.600pk></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb>
+Output written on /home/karisch/projects/horseAnalysis/latex/Horse-Analysis.pdf (5 pages, 279751 bytes).
 PDF statistics:
- 32 PDF objects out of 1000 (max. 8388607)
- 19 compressed objects within 1 object stream
+ 59 PDF objects out of 1000 (max. 8388607)
+ 32 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 11 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 36 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -13,8 +13,12 @@ Horse questions:
 	How fast are various tracks?
 	How does surface affect horses?
 	How much does weight matter?
+	How much does distance matter?
+	What is the breakdown of win/place/show on horses?
 
 Horse to do:
 	Need a program to generate past performances
 	Need a time column
+	Need to figure out why count of races doesn't match unique races in horses
+	Need to add different exotic bets (these are pulling but not getting saved)
 	
